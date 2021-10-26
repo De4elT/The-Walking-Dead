@@ -1,1 +1,1 @@
-"alive, current leader" 
+"dead, current leader" 
